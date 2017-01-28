@@ -75,11 +75,11 @@ $(document).ready(function(){
 
         $('#watch').countDown({
             targetDate: {
-                'day': 		25,
-                'month': 	12,
-                'year': 	2016,
-                'hour': 	11,
-                'min': 		13,
+                'day': 		3,
+                'month': 	3,
+                'year': 	2017,
+                'hour': 	12,
+                'min': 		0,
                 'sec': 		0
             },
             omitWeeks: true
