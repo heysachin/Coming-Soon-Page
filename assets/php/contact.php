@@ -6,7 +6,7 @@
     $subject = ( $_POST['subject'] ) ? $_POST['subject'] : 'Contact Form';
     $message = ( $_POST['message'] ) ? $_POST['message'] : '';
 
-    $to = 'youremail@domain.com';
+    $to = 'admin@tricodia.com';
     $message = 'Name: '.$name.'<br /> Email: '.$email.'<br />Message: '.$message;
 
     $headers = "From: You company <".$to.">". "\r\n" .

@@ -3,8 +3,8 @@
     // Here we get all the information from the fields sent over by the form.
     $email = $_POST['email'];
 
-    $to = 'youremail@domain.com';
-    $subject = 'the subject';
+    $to = 'help@tricodia.com';
+    $subject = 'Subscription On Coming Soon Page';
     $message = ' Email: '.$email;
 
 
