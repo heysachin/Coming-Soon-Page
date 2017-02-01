@@ -78,7 +78,7 @@ $(document).ready(function(){
                 'day': 		3,
                 'month': 	3,
                 'year': 	2017,
-                'hour': 	12,
+                'hour': 	0,
                 'min': 		0,
                 'sec': 		0
             },
